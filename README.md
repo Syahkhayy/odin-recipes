@@ -11,3 +11,9 @@ For beginning, i will be using only HTML to make the body of the pages. Later on
 SKILLS: HTML (CSS and Javascript)
 
 (This README will be updated when there is any changes)
+
+CREDIT
+
+Mee Kari - https://rasamalaysia.com/curry-meecurry-laksa-recipe/
+Pie Tee - https://www.nyonyacooking.com/recipes/kuih-pai-tee~BkWEOwjPGcZX
+Nasi Lemak - https://www.allrecipes.com/recipe/78938/malaysian-nasi-lemak/
