@@ -21,4 +21,33 @@
     font-size: 12px;
     font-weight: bold;
     text-align: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.subsection{
+    color: blue;
+    background-color: aqua;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.small{
+    color: rgb(96, 32, 156);
+}
+
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    color: aqua;
+    background-color: rgb(14, 14, 104);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
 }
