@@ -1,0 +1,24 @@
+.head{
+    background-color: rgb(134, 49, 49);
+    color: cyan;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 22px;
+    font-weight: 800;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#nasi-lemak {
+    margin-bottom: 30px;
+}
+
+.footer{
+    color: rgb(134, 49, 49);
+    background-color: cyan;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
